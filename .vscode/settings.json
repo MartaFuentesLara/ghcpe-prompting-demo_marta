@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#332E0A",
+        "titleBar.activeBackground": "#47400D",
+        "titleBar.activeForeground": "#FCFBF1"
+    },
+    "dotnet-test-explorer.testProjectPath": "**/*tests.csproj",
+}
